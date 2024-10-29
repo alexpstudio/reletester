@@ -2,7 +2,7 @@
 banner:
   title: "A solucao para testes de reles de protecao em campo"
   content: "O RELAYTESTER e um instrumento capaz de solucionar os principais testes de reles protecao sob as mais variadas condicoes de operacao"
-  image: /images/banner-img.png
+  image: /images/tester.png
   button:
     label: Download The Theme
     link: "https://themefisher.com/astro-themes/pinwheel-astro"
