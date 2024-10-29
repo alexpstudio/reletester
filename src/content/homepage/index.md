@@ -1,7 +1,7 @@
 ---
 banner:
-  title: "A solucao para testes de reles de protecao em campo"
-  content: "O RELAYTESTER e um instrumento capaz de solucionar os principais testes de reles protecao sob as mais variadas condicoes de operacao"
+  title: "A solução para testes de relés de proteção em campo"
+  content: "O RELAY TESTER é um instrumento capaz de solucionar os principais testes de relés proteção sob as mais variadas condições de operação"
   image: /images/tester.png
   button:
     label: Baixe o manual
@@ -11,7 +11,7 @@ banner:
 ##key features
 key_features:
   title: "Destaques da Nossa Solução de Teste de Relés"
-  description: "Com funcionalidades avançadas, o RELAYTESTER oferece precisão e versatilidade para uma análise completa de relés de proteção."
+  description: "Com funcionalidades avançadas, o RELAY TESTER oferece precisão e versatilidade para uma análise completa de relés de proteção."
   feature_list:
     - icon: "map"  #icon package react-feather-icon [https://feathericons.com/]
       title: Teste de Sobrecarga e Sobretensão
