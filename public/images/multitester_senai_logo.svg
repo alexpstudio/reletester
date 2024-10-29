@@ -24,9 +24,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="1"
-     inkscape:cx="159.5"
-     inkscape:cy="151.5"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="174.12505"
+     inkscape:cy="64.523494"
      inkscape:window-width="1280"
      inkscape:window-height="748"
      inkscape:window-x="0"
@@ -87,31 +87,31 @@
            transform="translate(0,-0.46923515)" />
         <path
            id="path3487"
-           style="stroke-width:2.40262;paint-order:stroke markers fill;stop-color:#000000"
+           style="stroke-width:2.40262;paint-order:stroke markers fill;stop-color:#000000;fill:#0000ff"
            d="m 56.118136,154.44249 h 16.443896 l 0.974396,4.94541 -3.771457,5.22904 H 53.321075 Z"
            sodipodi:nodetypes="cccccc"
            transform="translate(0,-0.46923515)" />
         <path
            id="path3484"
-           style="stroke-width:2.40262;paint-order:stroke markers fill;stop-color:#000000"
+           style="stroke-width:2.40262;paint-order:stroke markers fill;stop-color:#000000;fill:#0000ff"
            d="m 53.734851,154.4425 h 2.016157 l -2.797062,10.17444 h -2.016157 z"
            sodipodi:nodetypes="ccccc"
            transform="translate(0,-0.46923515)" />
         <path
            id="path3481"
-           style="stroke-width:2.40262;paint-order:stroke markers fill;stop-color:#000000"
+           style="stroke-width:2.40262;paint-order:stroke markers fill;stop-color:#000000;fill:#0000ff"
            d="m 52.3672,154.4425 h 0.957824 l -2.797062,10.17444 h -0.957824 z"
            sodipodi:nodetypes="ccccc"
            transform="translate(0,-0.46923515)" />
         <path
            id="path3478"
-           style="stroke-width:2.40262;paint-order:stroke markers fill;stop-color:#000000"
+           style="stroke-width:2.40262;paint-order:stroke markers fill;stop-color:#000000;fill:#0000ff"
            d="m 51.409376,154.4425 h 0.428657 l -2.797062,10.17444 h -0.428657 z"
            sodipodi:nodetypes="ccccc"
            transform="translate(0,-0.46923515)" />
         <path
            id="path3475"
-           style="stroke-width:2.40262;paint-order:stroke markers fill;stop-color:#000000"
+           style="stroke-width:2.40262;paint-order:stroke markers fill;stop-color:#000000;fill:#0000ff"
            d="m 50.508088,154.40936 0.254723,-0.009 -2.797062,10.17444 -0.254723,0.009 z"
            sodipodi:nodetypes="ccccc"
            transform="translate(0,-0.46923515)" />
@@ -191,7 +191,7 @@
            aria-label="PROJETO SAGA SENAI ANCHIETA-SP"
            id="text9557"
            style="font-size:3.1713px;line-height:1.25;stroke-width:0.237847"
-           transform="matrix(1,0,0,1.2653109,0,-42.520858)">
+           transform="matrix(1,0,0,1.3439213,0,-54.795239)">
           <path
              d="m 85.907971,157.57215 c 0.412269,0 0.523264,-0.12051 0.589862,-0.46301 l 0.09514,-0.50106 c 0.01268,-0.0698 0.01903,-0.11417 0.01903,-0.16174 0,-0.21565 -0.133195,-0.28859 -0.475695,-0.28859 h -1.842526 l -0.428125,2.2104 h 0.51375 l 0.152223,-0.796 z m 0.07294,-0.45666 c -0.0095,0.0444 -0.02537,0.0634 -0.06343,0.0634 h -1.309747 l 0.123681,-0.63743 h 1.284376 c 0.04757,0 0.06977,0.006 0.06977,0.0412 0,0.003 0,0.01 -0.0032,0.0254 z"
              style="font-style:italic;font-weight:bold;font-stretch:expanded;font-family:'Bunken Tech Sans Pro Wide';-inkscape-font-specification:'Bunken Tech Sans Pro Wide Bold Italic Expanded';text-align:end;text-anchor:end"
@@ -334,6 +334,45 @@
           <rect
              style="fill:#ffffff;stroke:none;stroke-width:2.59248;paint-order:stroke markers fill;stop-color:#000000"
              id="rect3923-5-3-5-6"
+             width="1.8817015"
+             height="0.52744013"
+             x="118.5003"
+             y="161.85461" />
+        </g>
+        <g
+           id="g4834-3"
+           transform="translate(33.483067,0.01244766)">
+          <rect
+             style="fill:#ffffff;stroke:none;stroke-width:2.59248;paint-order:stroke markers fill;stop-color:#000000"
+             id="rect3923-6"
+             width="1.8817015"
+             height="0.52744013"
+             x="118.5003"
+             y="155.77051" />
+          <rect
+             style="fill:#ffffff;stroke:none;stroke-width:2.59248;paint-order:stroke markers fill;stop-color:#000000"
+             id="rect3923-5-7"
+             width="1.8817015"
+             height="0.52744013"
+             x="118.5003"
+             y="157.29153" />
+          <rect
+             style="fill:#ffffff;stroke:none;stroke-width:2.59248;paint-order:stroke markers fill;stop-color:#000000"
+             id="rect3923-5-3-53"
+             width="1.8817015"
+             height="0.52744013"
+             x="118.5003"
+             y="158.81256" />
+          <rect
+             style="fill:#ffffff;stroke:none;stroke-width:2.59248;paint-order:stroke markers fill;stop-color:#000000"
+             id="rect3923-5-3-5-5"
+             width="1.8817015"
+             height="0.52744013"
+             x="118.5003"
+             y="160.33359" />
+          <rect
+             style="fill:#ffffff;stroke:none;stroke-width:2.59248;paint-order:stroke markers fill;stop-color:#000000"
+             id="rect3923-5-3-5-6-6"
              width="1.8817015"
              height="0.52744013"
              x="118.5003"
